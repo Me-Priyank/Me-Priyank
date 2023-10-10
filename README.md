@@ -7,7 +7,7 @@ hey there ✌️
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<i src="[![An image of @mepriyank's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mepriyank)](https://holopin.io/@mepriyank)"></i>
+<img src="[![An image of @mepriyank's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mepriyank)](https://holopin.io/@mepriyank)" alt="l">
 <!--
 **Me-Priyank/Me-Priyank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
