@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
 </div>
-<h1>Hey there ✌️</h1>
+<h1 styles = "justify-content:center;">Hey there ✌️</h1>
 <hr>
 <div> 
   <img src = "https://holopin.me/mepriyank" alt = "board">
