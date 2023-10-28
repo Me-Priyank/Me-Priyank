@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
 </div>
-<div style=" display:flex; justify-content: center;">
+<div style=" padding-left: 10px;">
 <h1 >Hey there ✌️</h1>
   </div>
 <hr>
