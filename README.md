@@ -1,7 +1,7 @@
 <p><img src = "(https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)"></p>
 
 
-<h1 align="center">Hi 👋, I'm Priyank</h1>
+<h1 align="center">Hi 👋, I'm Priyank <img src = "https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png"></h1>
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=me-priyank&label=Profile%20views&color=0e75b6&style=flat" alt="me-priyank" /> </p>
