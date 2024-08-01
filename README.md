@@ -1,5 +1,4 @@
-<p><img src = "https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg
-"></p>
+<p><img src = "(https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)"></p>
 
 
 <h1 align="center">Hi 👋, I'm Priyank</h1>
