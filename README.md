@@ -1,8 +1,13 @@
 <p align="center"><img src = "https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"></p>
 
+<p align="center"><img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"></p>
+
+
 
 <h1 align="center">Hi 👋, I'm Priyank <img src = "https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png"></h1>
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
+<p align="center"><img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=me-priyank&label=Profile%20views&color=0e75b6&style=flat" alt="me-priyank" /> </p>
 
