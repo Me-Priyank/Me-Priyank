@@ -1,5 +1,5 @@
-<p><img src="https://raw.githubusercontent.com/MananJain2002/MananJain2002/main/images/github-banner.png"></p>
-
+<p><img src = "https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg
+"></p>
 
 
 <h1 align="center">Hi 👋, I'm Priyank</h1>
