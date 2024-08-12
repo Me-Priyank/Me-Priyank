@@ -23,9 +23,7 @@
 
 - ⚡ Fun fact **Ada Lovelace wrote the first computer program in the 1800s, proving that bugs in code have been around longer than computers themselves!**
 
-<p align="center"><img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"></p>
 <img src = "https://holopin.me/mepriyank">
-<p align="center"><img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/priyanktweetss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyanktweetss" height="30" width="40" /></a>
