@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Full Stack Web Development**
+- 💬 Ask me about **Open Source**
 
 - 📫 How to reach me **pvonlyone29@gmail.com**
 
