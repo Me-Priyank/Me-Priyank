@@ -1,11 +1,14 @@
+<h1 align="center">Hi <img style="height: 45px;width: 45px;" src = "https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">, I'm <b>Priyank</b> </h1>
+<h3 align="center">A software engineer from <b>India</b> 🇮🇳</h3>
+
+
 <p><img src="https://raw.githubusercontent.com/MananJain2002/MananJain2002/main/images/github-banner.png"></p>
 
 
 
 
 
-<h1 align="center">Hi <img style="height: 45px;width: 45px;" src = "https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">, I'm <b>Priyank</b> </h1>
-<h3 align="center">A software engineer from <b>India</b> 🇮🇳</h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=me-priyank&label=Profile%20views&color=0e75b6&style=flat" alt="me-priyank" /> </p>
