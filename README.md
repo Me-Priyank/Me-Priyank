@@ -63,19 +63,19 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="40" height="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="reactnative" width="40" height="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="reactnative" width="40" height="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="reactnative" width="40" height="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  <a href="# target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" alt="reactnative" width="40" height="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img src="https://zod.dev/logo.svg" alt="reactnative" width="40" height="40"/>
   </a>
 </p>
