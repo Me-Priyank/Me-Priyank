@@ -77,6 +77,9 @@
   </a>&nbsp;&nbsp;
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://zod.dev/logo.svg" alt="reactnative" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-git-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175218.png?f=webp&w=256" alt="reactnative" width="40" height="40"/>
   </a>
 </p>
 
