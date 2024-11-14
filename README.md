@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **Employee Management System**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **Open Source**
 
