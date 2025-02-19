@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://twitter.com/priyanktweetss" target="blank"><img src="https://img.shields.io/twitter/follow/priyanktweetss?logo=twitter&style=for-the-badge" alt="priyanktweetss" /></a> </p>
 
-- 🔭 I’m currently working on **Whatsapp Automation System**
+- 🔭 I’m currently working on **AI Cold Calling Agent**
 
 - 🌱 I’m currently learning **Next JS**
 
