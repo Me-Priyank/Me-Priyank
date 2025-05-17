@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **AI Voice Calling Agent**
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Automations**
 
 - 💬 Ask me about **Open Source**
 
